@@ -6,5 +6,5 @@
     <img src="./images/bouyview.jpg">
 <div>
 
-![buoyview](/images/bouyview.jpg)
-![buoysim](/images/bouysim.jpg)
+![buoyview](./images/bouyview.jpg)
+![buoysim](./images/bouysim.jpg)
