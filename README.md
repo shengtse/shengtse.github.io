@@ -1,2 +1,3 @@
-# hello welcome to my portfolio\n
+# hello welcome to my portfolio
+---
 [Senior Capstone project](/projects.md/)
