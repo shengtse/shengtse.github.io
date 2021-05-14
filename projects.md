@@ -5,6 +5,3 @@
     <img src="./images/bouysim.jpg">
     <img src="./images/bouyview.jpg">
 <div>
-
-![buoyview](./images/bouyview.jpg)
-![buoysim](./images/bouysim.jpg)
