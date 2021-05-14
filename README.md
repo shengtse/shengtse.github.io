@@ -1,4 +1,4 @@
-# hello welcome to my portfolio
+# hello welcome to my portfolio (site under construction)
 ---
 [Senior Capstone project](/projects.md/)
 ---
