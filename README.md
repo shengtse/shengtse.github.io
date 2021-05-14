@@ -1,4 +1,2 @@
-# shengtse.github.io
-
-#hello welcome to my portfolio
+# hello welcome to my portfolio\n
 [Senior Capstone project](/projects.md/)
