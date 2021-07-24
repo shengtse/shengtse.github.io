@@ -4,4 +4,3 @@
 ---
 <a href="mailto:shengtsetsai@gmail.com">E-mail</a>
 ---
-[Github](https://github.com/shengtse)
